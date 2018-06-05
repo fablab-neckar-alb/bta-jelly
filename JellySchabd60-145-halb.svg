@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="2100.00mm"
+   height="2970.00mm"
+   viewBox="0 0 2100.00 2970.00"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="JellySchabd60-145-halb.svg">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1067"
+     inkscape:window-height="541"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="1630.6542"
+     inkscape:cy="2362.2572"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <style
+     type="text/css"
+     id="style4">
+    path {
+        fill: none;
+        stroke-linecap: butt;
+        stroke-linejoin: bevel;
+        stroke-dasharray: none;
+    }
+    path.outer {
+        stroke: #000000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 0.3;
+        stroke-opacity: 1.0;
+    }
+    path.convex {
+        stroke: #000000;
+        stroke-dasharray: 0.50,1.00;
+        stroke-dashoffset:0;
+        stroke-width:0.2;
+        stroke-opacity: 1.0
+    }
+    path.concave {
+        stroke: #000000;
+        stroke-dasharray: 1.00,0.50,0.20,0.50;
+        stroke-dashoffset: 0;
+        stroke-width: 0.2;
+        stroke-opacity: 1.0
+    }
+    path.freestyle {
+        stroke: #000000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 0.2;
+        stroke-opacity: 1.0
+    }
+    path.outer_background {
+        stroke: #ffffff;
+        stroke-opacity: 1.0;
+        stroke-width: 0.5
+    }
+    path.inner_background {
+        stroke: #ffffff;
+        stroke-opacity: 1.0;
+        stroke-width: 0.2
+    }
+    path.sticker {
+        fill: #e5e5e5;
+        stroke: none;
+        fill-opacity: 1.0;
+    }
+    path.arrow {
+        fill: #000;
+    }
+    text {
+        font-style: normal;
+        fill: #000000;
+        fill-opacity: 1.0;
+        stroke: none;
+    }
+    text, tspan {
+        text-anchor:middle;
+    }
+    </style>
+  <g
+     id="g6">
+    <path
+       class="outer"
+       d="m 5,2964.85 0.500739,-39.2387 1.493543,-39.2135 2.460837,-39.1646 3.386021,-39.0956 4.253298,-39.0106 5.047739,-38.9158 5.755841,-38.8175 6.365508,-38.7222 6.866217,-38.6365 7.24943,-38.5665 7.50862,-38.5168 7.639334,-38.4911 7.639348,-38.4911 7.508636,-38.5168 7.249415,-38.5663 6.866187,-38.6365 6.365463,-38.7223 5.755904,-38.8175 5.04775,-38.9157 4.25334,-39.0108 3.38605,-39.0954 2.46086,-39.1647 1.49352,-39.2133 0.50073,-39.2387 48.77256,0 0.50069,39.2387 1.49356,39.2134 2.46087,39.1646 3.38599,39.0955 4.25325,39.0107 5.04775,38.9157 5.75585,38.8175 6.3655,38.7222 6.86619,38.6366 7.24941,38.5664 7.5086,38.5168 7.6393,38.4911 7.6393,38.491 7.50861,38.5169 7.2494,38.5665 6.86619,38.6364 6.36547,38.7223 5.75585,38.8173 5.04779,38.9157 4.25327,39.0109 3.38602,39.0955 2.4609,39.1646 1.49354,39.2135 0.50071,39.2387 z"
+       id="path10"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>
